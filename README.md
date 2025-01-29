@@ -18,4 +18,4 @@
 
 ### Resutados
 
-![Alt text](./kali.png "Optional title")
+![Alt text](./kali.PNG "Optional title")
